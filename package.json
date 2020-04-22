@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iver23/BackgroundGenerator/issues"
   },
-  "homepage": "https://github.com/iver23/BackgroundGenerator#readme"
+  "homepage": "https://github.com/iver23/BackgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
